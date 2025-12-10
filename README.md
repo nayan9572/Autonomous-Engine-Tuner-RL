@@ -75,6 +75,7 @@ Rod Length: 0.25
 *This plot demonstrates the Reinforcement Learning process where the AI quickly transitions from exploration (low reward) to exploitation (high, stable reward).*
 
 ![AI Reward Learning Curve](learning_curve.png)
+![AI Reward Learning Curve](Reward_curve.png)
 
 ## 👨‍💻 About the Author
 **Nayan Kumar**

@@ -61,8 +61,10 @@ Rod Length: 0.25
 ## 📈 Visualizations
 1. **AI Decision Process**
 The agent explores high angles but stabilizes at 16° to keep pressure under the safety limit.
+### 1. AI Decision Process
+![AI Decision Process](dashboard.png)
 
-2. **Optimized P-V Diagram**
+3. **Optimized P-V Diagram**
 Final engine calibration showing the Work Output at optimal timing.
 
 ## 👨‍💻 About the Author
